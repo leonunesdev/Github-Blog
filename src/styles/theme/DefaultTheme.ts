@@ -14,7 +14,7 @@ export const defaultTheme = {
   },
 
   textSizes: {
-    "title-title-l": "1.6rem",
+    "title-title-l": "1.5rem",
     "title-title-m": "1.25rem",
     "title-title-s": "1.125rem",
     "text-text-m": "1rem",
