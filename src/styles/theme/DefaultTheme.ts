@@ -12,6 +12,7 @@ export const defaultTheme = {
     "base-title": "#E7EDF4",
     "brand-blue": "#3294F8",
   },
+
   textSizes: {
     "title-title-l": "1.5rem",
     "title-title-m": "1.25rem",
